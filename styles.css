@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    color: coral;
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+h1 {
+    margin: 0 0 10px 0;
+}
+img {
+    width: 25%;
+    height: 300px;
+    border-radius: 20% 35% 20% 35%;
+}
+
+/****div Classes****/
+.contact {
+    font-size: 1.2rem;
+}
+.Content {
+    position: relative;
+}
+.content-paragraph {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 50px auto;
+    width: 80%;
+}
+.footer {
+    background-color: whitesmoke;
+    padding: 0 0 5px 0;
+}
+.Heading {
+    background-color: whitesmoke;
+    font-size: 2rem;
+    margin: auto auto 20px auto;
+    padding: 5px 0 0 0;
+}
+.image1 {
+    float: left;
+    margin-right: 20px;
+}
+.image2 {
+    float: right;
+    margin-left: 20px;
+}
+.image3 {
+    float: left;
+    margin-right: 20px;
+}
+.paragraph {
+    text-align: justify;
+}
+.thoughts {
+    line-height: 2;
+    margin-left: 15px;
+    text-align: left;
+    
+}
